@@ -1,0 +1,2 @@
+        elif not account.isdigit():
+            print("账号不允许有非数字字符")
